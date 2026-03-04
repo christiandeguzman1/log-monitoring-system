@@ -1,4 +1,4 @@
-#Automated Log Monitoring & Incident Alert System
+## Automated Log Monitoring & Incident Alert System
 
 A real-time log monitoring system built with Python and watchdog that detects anomalies and stores incidents in SQLite.
 
