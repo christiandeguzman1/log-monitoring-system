@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue" />
+  <img src="https://img.shields.io/badge/Python-3.12-blue" />
   <img src="https://img.shields.io/badge/DevOps-Automation-green" />
   <img src="https://img.shields.io/badge/Monitoring-RealTime-orange" />
   <img src="https://img.shields.io/badge/SQLite-Database-lightgrey" />
