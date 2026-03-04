@@ -1,0 +1,13 @@
+INFO User logged in
+ERROR Database connection failed
+WARNING High memory usage
+INFO User logged out
+FAILED LOGIN attempt from 192.168.1.10ERROR Payment system failure
+ERROR Payment system failure
+ERROR Payment system failure
+FAILED LOGIN attempt from 192.168.1.55
+ERROR Payment system failure
+ERROR Payment system failure
+FAILED LOGIN attempt from 192.168.1.55
+WARNING High memory usage detected
+INFO User logged in successfully
