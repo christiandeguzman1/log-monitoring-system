@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Threading-Multithreaded-purple" />
 </p>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/reponame)
+![GitHub last commit](https://img.shields.io/github/last-commit/christiandeguzman1/log-monitoring-system)
 
 ## Automated Log Monitoring & Incident Alert System
 
