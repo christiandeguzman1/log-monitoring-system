@@ -5,7 +5,7 @@ from watchdog.events import FileSystemEventHandler
 class LogFileEventHandler(FileSystemEventHandler):
     def __init__(self, file_path):
         self.file_path = file_path
-        # Start at the end of the file
+#start at the end of the file
         try:
             with open(self.file_path, 'r') as f:
                 f.seek(0, 2)
@@ -40,7 +40,7 @@ class LogWatcher:
             self.observer.stop()
         self.observer.join()
 
-# Example usage:
-# if __name__ == "__main__":
-#     watcher = LogWatcher("sample.log")
-#     watcher.start()
+#example usage:
+#if __name__ == "__main__":
+#watcher = LogWatcher("sample.log")
+#watcher.start()
