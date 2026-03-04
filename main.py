@@ -18,7 +18,7 @@ class IncidentHandler(LogFileEventHandler):
                 for line in f:
                     anomaly = detect_anomaly(line)
                     if anomaly:
-                        #store in database and print alert
+#store in database and print alert
                         self.db_helper.insert_incident(anomaly["type"], anomaly["message"])
                         print_alert(anomaly)
                 self._file_pos = f.tell()
