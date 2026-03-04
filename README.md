@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/DevOps-Automation-green" />
   <img src="https://img.shields.io/badge/Monitoring-RealTime-orange" />
   <img src="https://img.shields.io/badge/SQLite-Database-lightgrey" />
+  <img src="https://img.shields.io/badge/Threading-Multithreaded-purple" />
 </p>
 
 ## Automated Log Monitoring & Incident Alert System
