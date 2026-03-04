@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Threading-Multithreaded-purple" />
 </p>
 
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/reponame)
+
 ## Automated Log Monitoring & Incident Alert System
 
 A real-time log monitoring system built with Python and watchdog that detects anomalies and stores incidents in SQLite.
